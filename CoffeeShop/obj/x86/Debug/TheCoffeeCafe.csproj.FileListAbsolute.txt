@@ -8,3 +8,5 @@ C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeSh
 C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.AddCustomer.resources
 C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.ThanhToan.resources
 C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.DangNhap.resources
+C:\Users\Kin Nguyen\Desktop\TheCoffeeCafeH\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+C:\Users\Kin Nguyen\Desktop\TheCoffeeCafeH\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb

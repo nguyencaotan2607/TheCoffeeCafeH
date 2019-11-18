@@ -104,6 +104,11 @@ namespace TheCoffeeCafe
             f.Show();
         }
 
+        private void ThanhToan_Load(object sender, EventArgs e)
+        {
+            as 
+        }
+
 
 
 

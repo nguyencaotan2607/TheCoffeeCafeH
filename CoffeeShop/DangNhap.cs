@@ -35,7 +35,7 @@ namespace TheCoffeeCafe
             {
                 this.Hide();
                 Form f = new TrangChu(username);
-                f.Show();
+                f.Show(); 
             }
         }
 
