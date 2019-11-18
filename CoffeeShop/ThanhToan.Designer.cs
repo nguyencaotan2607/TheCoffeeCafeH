@@ -189,6 +189,7 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "Mã khách hàng Thân Thiết";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtKhtt
             // 
@@ -284,7 +285,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = " ";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.ThanhToan_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
