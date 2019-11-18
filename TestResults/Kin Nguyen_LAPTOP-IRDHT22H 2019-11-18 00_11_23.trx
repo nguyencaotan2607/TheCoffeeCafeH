@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="57e2a34a-3d1b-4373-82b5-3d7ef8cdc516" name="Kin Nguyen@LAPTOP-IRDHT22H 2019-11-18 00:11:23" runUser="LAPTOP-IRDHT22H\Kin Nguyen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8bc9db81-6ffa-423b-b713-8990651773ed">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kin Nguyen_LAPTOP-IRDHT22H 2019-11-18 00_11_23">
+      <DeploymentItem filename="C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-11-18T00:11:23.6480543+07:00" queuing="2019-11-18T00:11:23.6729524+07:00" start="2019-11-18T00:11:23.6809303+07:00" finish="2019-11-18T00:11:39.2032889+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="19" executed="19" passed="15" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="testCase_Login_6" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="b17e7b48-5750-91a5-b696-19de03b20151">
+      <Execution id="4b187f6a-5cff-4b7f-88fd-44dea8e36a30" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_6" />
+    </UnitTest>
+    <UnitTest name="testCase_Them_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="fa5b35ab-29ab-0170-9025-94048b21eda5">
+      <Execution id="cfa475ca-5429-4c97-ab53-6806fb445d44" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Them_KhongDuoc" />
+    </UnitTest>
+    <UnitTest name="testCase_ThanhToan_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d">
+      <Execution id="774b16fe-db08-4921-b151-9e8dc472d4a1" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_ThanhToan_KhongDuoc" />
+    </UnitTest>
+    <UnitTest name="testCase_ThanhToan_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc">
+      <Execution id="1ced0188-30e0-4d0e-b683-10c3a6416b3b" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_ThanhToan_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_7" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="92892753-a6fb-6076-35d8-b259b2867875">
+      <Execution id="0db0919a-9c8e-4724-8eb9-d9e0676dccb7" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_7" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_9" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="f3c7c967-2efd-b356-b618-c97ab977c2bb">
+      <Execution id="fcdf94e8-4600-40fc-ad35-4cb5c359bd81" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_9" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_1" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2c3f325c-600e-d3dd-f1f9-95baac17e375">
+      <Execution id="eea31fc7-80cd-4857-b3bc-15dcdd88799a" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_1" />
+    </UnitTest>
+    <UnitTest name="testCase_Xoa_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2ea8d17d-6955-f5ff-786f-db789e193218">
+      <Execution id="da89f559-0fe0-473e-961a-37718c07a434" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Xoa_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Them_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="9516e242-c1e2-58dc-ab4e-daf4a754b19f">
+      <Execution id="203032ba-9076-4468-aab8-9a37754dd6f8" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Them_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_5" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="a3341333-08da-e980-0963-333d51cd2e33">
+      <Execution id="e512fdce-80f7-445f-b570-a58cf884e04b" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_5" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_8" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2ff65dbb-02e7-734d-df90-cf72a71f36cb">
+      <Execution id="a9d84d26-53d3-4058-83bf-3c7195c49509" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_8" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_HopLe" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="4ec96446-5667-6f79-173a-1015c4139778">
+      <Execution id="ec9df654-2413-4887-b485-481bcba31a3e" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_HopLe" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_dau" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2">
+      <Execution id="2221e57a-e7a4-47fa-8c49-b30c63d109d1" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_dau" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_3" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="3486f7cc-6226-f7d6-74fe-a9deae1d18f8">
+      <Execution id="e717864e-f08c-4d2d-a629-359d0caf2633" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_3" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_ABCD" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="22fea31c-f0df-c9d5-7c93-9590ebc30b40">
+      <Execution id="57a0610c-64c6-44c2-ab2d-7601c82fd479" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_ABCD" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_4" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="4fc4019d-f9de-1dbd-e3d1-66d40599b388">
+      <Execution id="412695be-cb49-4b5c-bd27-9f62e98ad438" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_4" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_2" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="6300b902-0ae6-2f07-3bba-f7b7402a1e51">
+      <Execution id="7e63458b-c064-4741-ba5f-77a3aab3a5ac" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_2" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_123456" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2d81709d-0ff0-9609-5478-9257a05cdb0a">
+      <Execution id="282e6432-6ea8-47eb-8513-8e93fffe687c" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_123456" />
+    </UnitTest>
+    <UnitTest name="testCase_Xoa_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="87c6324a-3a38-54bf-01cd-762cca8d78d8">
+      <Execution id="eeec24c5-c254-4dd2-8d6b-4adf13cb02d5" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Xoa_KhongDuoc" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22fea31c-f0df-c9d5-7c93-9590ebc30b40" executionId="57a0610c-64c6-44c2-ab2d-7601c82fd479" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c3f325c-600e-d3dd-f1f9-95baac17e375" executionId="eea31fc7-80cd-4857-b3bc-15dcdd88799a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2d81709d-0ff0-9609-5478-9257a05cdb0a" executionId="282e6432-6ea8-47eb-8513-8e93fffe687c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ea8d17d-6955-f5ff-786f-db789e193218" executionId="da89f559-0fe0-473e-961a-37718c07a434" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ff65dbb-02e7-734d-df90-cf72a71f36cb" executionId="a9d84d26-53d3-4058-83bf-3c7195c49509" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3486f7cc-6226-f7d6-74fe-a9deae1d18f8" executionId="e717864e-f08c-4d2d-a629-359d0caf2633" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ec96446-5667-6f79-173a-1015c4139778" executionId="ec9df654-2413-4887-b485-481bcba31a3e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4fc4019d-f9de-1dbd-e3d1-66d40599b388" executionId="412695be-cb49-4b5c-bd27-9f62e98ad438" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d" executionId="774b16fe-db08-4921-b151-9e8dc472d4a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" executionId="7e63458b-c064-4741-ba5f-77a3aab3a5ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="87c6324a-3a38-54bf-01cd-762cca8d78d8" executionId="eeec24c5-c254-4dd2-8d6b-4adf13cb02d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92892753-a6fb-6076-35d8-b259b2867875" executionId="0db0919a-9c8e-4724-8eb9-d9e0676dccb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9516e242-c1e2-58dc-ab4e-daf4a754b19f" executionId="203032ba-9076-4468-aab8-9a37754dd6f8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3341333-08da-e980-0963-333d51cd2e33" executionId="e512fdce-80f7-445f-b570-a58cf884e04b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2" executionId="2221e57a-e7a4-47fa-8c49-b30c63d109d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b17e7b48-5750-91a5-b696-19de03b20151" executionId="4b187f6a-5cff-4b7f-88fd-44dea8e36a30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3c7c967-2efd-b356-b618-c97ab977c2bb" executionId="fcdf94e8-4600-40fc-ad35-4cb5c359bd81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa5b35ab-29ab-0170-9025-94048b21eda5" executionId="cfa475ca-5429-4c97-ab53-6806fb445d44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc" executionId="1ced0188-30e0-4d0e-b683-10c3a6416b3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="57a0610c-64c6-44c2-ab2d-7601c82fd479" testId="22fea31c-f0df-c9d5-7c93-9590ebc30b40" testName="testCase_KHTT_ABCD" computerName="LAPTOP-IRDHT22H" duration="00:00:15.1111133" startTime="2019-11-18T00:11:23.6829258+07:00" endTime="2019-11-18T00:11:39.0357370+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57a0610c-64c6-44c2-ab2d-7601c82fd479">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UnitTestCoffeeShop._3_Test_KHTT.setUp threw exception. System.Data.SqlClient.SqlException: System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---&gt; System.ComponentModel.Win32Exception: The network path was not found.</Message>
+          <StackTrace> 
+ --- End of inner exception stack trace ---
+    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at TheCoffeeCafe.FunctionCheckKhachHang.kiemtra(String khachHang) in D:\KTTM\CoffeeShop\CoffeeShop\FunctionCheckKhachHang.cs:line 14
+   at UnitTestCoffeeShop._3_Test_KHTT.setUp() in D:\KTTM\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="eea31fc7-80cd-4857-b3bc-15dcdd88799a" testId="2c3f325c-600e-d3dd-f1f9-95baac17e375" testName="testCase_Login_1" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0196043" startTime="2019-11-18T00:11:39.0367354+07:00" endTime="2019-11-18T00:11:39.0626657+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eea31fc7-80cd-4857-b3bc-15dcdd88799a">
+    </UnitTestResult>
+    <UnitTestResult executionId="282e6432-6ea8-47eb-8513-8e93fffe687c" testId="2d81709d-0ff0-9609-5478-9257a05cdb0a" testName="testCase_KHTT_123456" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0034741" startTime="2019-11-18T00:11:39.0646609+07:00" endTime="2019-11-18T00:11:39.0756307+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="282e6432-6ea8-47eb-8513-8e93fffe687c">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UnitTestCoffeeShop._3_Test_KHTT.setUp threw exception. System.Data.SqlClient.SqlException: System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---&gt; System.ComponentModel.Win32Exception: The network path was not found.</Message>
+          <StackTrace> 
+ --- End of inner exception stack trace ---
+    at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at TheCoffeeCafe.FunctionCheckKhachHang.kiemtra(String khachHang) in D:\KTTM\CoffeeShop\CoffeeShop\FunctionCheckKhachHang.cs:line 14
+   at UnitTestCoffeeShop._3_Test_KHTT.setUp() in D:\KTTM\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="da89f559-0fe0-473e-961a-37718c07a434" testId="2ea8d17d-6955-f5ff-786f-db789e193218" testName="testCase_Xoa_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0009832" startTime="2019-11-18T00:11:39.0766283+07:00" endTime="2019-11-18T00:11:39.0846077+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da89f559-0fe0-473e-961a-37718c07a434">
+    </UnitTestResult>
+    <UnitTestResult executionId="a9d84d26-53d3-4058-83bf-3c7195c49509" testId="2ff65dbb-02e7-734d-df90-cf72a71f36cb" testName="testCase_Login_8" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001755" startTime="2019-11-18T00:11:39.0866010+07:00" endTime="2019-11-18T00:11:39.0915896+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9d84d26-53d3-4058-83bf-3c7195c49509">
+    </UnitTestResult>
+    <UnitTestResult executionId="e717864e-f08c-4d2d-a629-359d0caf2633" testId="3486f7cc-6226-f7d6-74fe-a9deae1d18f8" testName="testCase_Login_3" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0002004" startTime="2019-11-18T00:11:39.0925852+07:00" endTime="2019-11-18T00:11:39.0985812+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e717864e-f08c-4d2d-a629-359d0caf2633">
+    </UnitTestResult>
+    <UnitTestResult executionId="ec9df654-2413-4887-b485-481bcba31a3e" testId="4ec96446-5667-6f79-173a-1015c4139778" testName="testCase_KHTT_HopLe" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0027616" startTime="2019-11-18T00:11:39.0995667+07:00" endTime="2019-11-18T00:11:39.1075439+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec9df654-2413-4887-b485-481bcba31a3e">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UnitTestCoffeeShop._3_Test_KHTT.setUp threw exception. System.Data.SqlClient.SqlException: System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---&gt; System.ComponentModel.Win32Exception: The network path was not found.</Message>
+          <StackTrace> 
+ --- End of inner exception stack trace ---
+    at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at TheCoffeeCafe.FunctionCheckKhachHang.kiemtra(String khachHang) in D:\KTTM\CoffeeShop\CoffeeShop\FunctionCheckKhachHang.cs:line 14
+   at UnitTestCoffeeShop._3_Test_KHTT.setUp() in D:\KTTM\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="412695be-cb49-4b5c-bd27-9f62e98ad438" testId="4fc4019d-f9de-1dbd-e3d1-66d40599b388" testName="testCase_Login_4" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001869" startTime="2019-11-18T00:11:39.1085437+07:00" endTime="2019-11-18T00:11:39.1145276+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="412695be-cb49-4b5c-bd27-9f62e98ad438">
+    </UnitTestResult>
+    <UnitTestResult executionId="774b16fe-db08-4921-b151-9e8dc472d4a1" testId="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d" testName="testCase_ThanhToan_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001993" startTime="2019-11-18T00:11:39.1155240+07:00" endTime="2019-11-18T00:11:39.1215064+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="774b16fe-db08-4921-b151-9e8dc472d4a1">
+    </UnitTestResult>
+    <UnitTestResult executionId="7e63458b-c064-4741-ba5f-77a3aab3a5ac" testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" testName="testCase_Login_2" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001963" startTime="2019-11-18T00:11:39.1225055+07:00" endTime="2019-11-18T00:11:39.1294851+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7e63458b-c064-4741-ba5f-77a3aab3a5ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="eeec24c5-c254-4dd2-8d6b-4adf13cb02d5" testId="87c6324a-3a38-54bf-01cd-762cca8d78d8" testName="testCase_Xoa_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001616" startTime="2019-11-18T00:11:39.1304849+07:00" endTime="2019-11-18T00:11:39.1364673+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eeec24c5-c254-4dd2-8d6b-4adf13cb02d5">
+    </UnitTestResult>
+    <UnitTestResult executionId="0db0919a-9c8e-4724-8eb9-d9e0676dccb7" testId="92892753-a6fb-6076-35d8-b259b2867875" testName="testCase_Login_7" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0002231" startTime="2019-11-18T00:11:39.1374653+07:00" endTime="2019-11-18T00:11:39.1434522+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0db0919a-9c8e-4724-8eb9-d9e0676dccb7">
+    </UnitTestResult>
+    <UnitTestResult executionId="203032ba-9076-4468-aab8-9a37754dd6f8" testId="9516e242-c1e2-58dc-ab4e-daf4a754b19f" testName="testCase_Them_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001230" startTime="2019-11-18T00:11:39.1454435+07:00" endTime="2019-11-18T00:11:39.1504295+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="203032ba-9076-4468-aab8-9a37754dd6f8">
+    </UnitTestResult>
+    <UnitTestResult executionId="e512fdce-80f7-445f-b570-a58cf884e04b" testId="a3341333-08da-e980-0963-333d51cd2e33" testName="testCase_Login_5" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0002016" startTime="2019-11-18T00:11:39.1514278+07:00" endTime="2019-11-18T00:11:39.1584085+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e512fdce-80f7-445f-b570-a58cf884e04b">
+    </UnitTestResult>
+    <UnitTestResult executionId="2221e57a-e7a4-47fa-8c49-b30c63d109d1" testId="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2" testName="testCase_KHTT_dau" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0023459" startTime="2019-11-18T00:11:39.1594061+07:00" endTime="2019-11-18T00:11:39.1653900+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2221e57a-e7a4-47fa-8c49-b30c63d109d1">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UnitTestCoffeeShop._3_Test_KHTT.setUp threw exception. System.Data.SqlClient.SqlException: System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---&gt; System.ComponentModel.Win32Exception: The network path was not found.</Message>
+          <StackTrace> 
+ --- End of inner exception stack trace ---
+    at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at TheCoffeeCafe.FunctionCheckKhachHang.kiemtra(String khachHang) in D:\KTTM\CoffeeShop\CoffeeShop\FunctionCheckKhachHang.cs:line 14
+   at UnitTestCoffeeShop._3_Test_KHTT.setUp() in D:\KTTM\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4b187f6a-5cff-4b7f-88fd-44dea8e36a30" testId="b17e7b48-5750-91a5-b696-19de03b20151" testName="testCase_Login_6" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001427" startTime="2019-11-18T00:11:39.1663880+07:00" endTime="2019-11-18T00:11:39.1713758+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b187f6a-5cff-4b7f-88fd-44dea8e36a30">
+    </UnitTestResult>
+    <UnitTestResult executionId="fcdf94e8-4600-40fc-ad35-4cb5c359bd81" testId="f3c7c967-2efd-b356-b618-c97ab977c2bb" testName="testCase_Login_9" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001555" startTime="2019-11-18T00:11:39.1733702+07:00" endTime="2019-11-18T00:11:39.1773578+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fcdf94e8-4600-40fc-ad35-4cb5c359bd81">
+    </UnitTestResult>
+    <UnitTestResult executionId="cfa475ca-5429-4c97-ab53-6806fb445d44" testId="fa5b35ab-29ab-0170-9025-94048b21eda5" testName="testCase_Them_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001079" startTime="2019-11-18T00:11:39.1783565+07:00" endTime="2019-11-18T00:11:39.1823453+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cfa475ca-5429-4c97-ab53-6806fb445d44">
+    </UnitTestResult>
+    <UnitTestResult executionId="1ced0188-30e0-4d0e-b683-10c3a6416b3b" testId="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc" testName="testCase_ThanhToan_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001076" startTime="2019-11-18T00:11:39.1833440+07:00" endTime="2019-11-18T00:11:39.1883288+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ced0188-30e0-4d0e-b683-10c3a6416b3b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

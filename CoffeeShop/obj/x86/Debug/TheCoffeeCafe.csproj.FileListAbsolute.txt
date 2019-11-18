@@ -1,0 +1,10 @@
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.TrangChu.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.Properties.Resources.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.csproj.GenerateResource.Cache
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.AddCustomer.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.ThanhToan.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.DangNhap.resources

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f7cba20b-7374-4434-973e-e2220befef2b" name="Kin Nguyen@LAPTOP-IRDHT22H 2019-11-18 13:30:09" runUser="LAPTOP-IRDHT22H\Kin Nguyen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8bc9db81-6ffa-423b-b713-8990651773ed">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kin Nguyen_LAPTOP-IRDHT22H 2019-11-18 13_30_09">
+      <DeploymentItem filename="C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-11-18T13:30:09.2883191+07:00" queuing="2019-11-18T13:30:10.7874280+07:00" start="2019-11-18T13:30:10.9905023+07:00" finish="2019-11-18T13:30:11.6778522+07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="testCase_Login_2" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="6300b902-0ae6-2f07-3bba-f7b7402a1e51">
+      <Execution id="62e6140b-382b-4e8c-8e4d-23a24e839cef" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" executionId="62e6140b-382b-4e8c-8e4d-23a24e839cef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="62e6140b-382b-4e8c-8e4d-23a24e839cef" testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" testName="testCase_Login_2" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0190674" startTime="2019-11-18T13:30:11.0686090+07:00" endTime="2019-11-18T13:30:11.6153554+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62e6140b-382b-4e8c-8e4d-23a24e839cef">
+    </UnitTestResult>
+  </Results>
+</TestRun>

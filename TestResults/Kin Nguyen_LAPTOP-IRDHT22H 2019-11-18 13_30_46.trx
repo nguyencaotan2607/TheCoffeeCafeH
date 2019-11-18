@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="76cf6cae-1fd7-4bc3-b540-012c2d1d8af1" name="Kin Nguyen@LAPTOP-IRDHT22H 2019-11-18 13:30:46" runUser="LAPTOP-IRDHT22H\Kin Nguyen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8bc9db81-6ffa-423b-b713-8990651773ed">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kin Nguyen_LAPTOP-IRDHT22H 2019-11-18 13_30_46">
+      <DeploymentItem filename="C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-11-18T13:30:46.2531720+07:00" queuing="2019-11-18T13:30:46.5343538+07:00" start="2019-11-18T13:30:46.5968392+07:00" finish="2019-11-18T13:30:49.1434017+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="19" executed="19" passed="15" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="testCase_Login_6" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="b17e7b48-5750-91a5-b696-19de03b20151">
+      <Execution id="6a992c73-75a4-418b-bb94-cd693b30940b" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_6" />
+    </UnitTest>
+    <UnitTest name="testCase_Them_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="fa5b35ab-29ab-0170-9025-94048b21eda5">
+      <Execution id="f6e92102-5de6-457a-91c6-97f8f563bc8d" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Them_KhongDuoc" />
+    </UnitTest>
+    <UnitTest name="testCase_ThanhToan_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d">
+      <Execution id="de6d499d-ba94-42dc-99aa-dfe4c44181ca" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_ThanhToan_KhongDuoc" />
+    </UnitTest>
+    <UnitTest name="testCase_ThanhToan_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc">
+      <Execution id="66aefca9-e931-43ca-b2cf-e311dda00045" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_ThanhToan_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_7" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="92892753-a6fb-6076-35d8-b259b2867875">
+      <Execution id="7a4b841b-3769-487c-bcd0-18fe91a5f362" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_7" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_9" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="f3c7c967-2efd-b356-b618-c97ab977c2bb">
+      <Execution id="206c0a0f-9973-40a4-837c-0cb00bea04ef" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_9" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_1" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2c3f325c-600e-d3dd-f1f9-95baac17e375">
+      <Execution id="a31493d5-2b72-44a8-81e6-c20499a5ce7c" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_1" />
+    </UnitTest>
+    <UnitTest name="testCase_Xoa_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2ea8d17d-6955-f5ff-786f-db789e193218">
+      <Execution id="9b7a961b-e5b4-45e2-b57c-84e6ea7e211a" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Xoa_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Them_Duoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="9516e242-c1e2-58dc-ab4e-daf4a754b19f">
+      <Execution id="dc507091-487a-4570-8845-607a8434f4c3" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Them_Duoc" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_5" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="a3341333-08da-e980-0963-333d51cd2e33">
+      <Execution id="1c765a49-1258-4692-9b22-3368e795e3f1" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_5" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_8" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2ff65dbb-02e7-734d-df90-cf72a71f36cb">
+      <Execution id="3b2f8420-8bee-49a6-ba52-6861ea9a4f23" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_8" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_HopLe" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="4ec96446-5667-6f79-173a-1015c4139778">
+      <Execution id="68759a9e-5a6b-415d-89c9-6574148b2a75" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_HopLe" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_dau" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2">
+      <Execution id="2015dc38-a79c-48ab-bf3a-a745e7ad1620" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_dau" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_3" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="3486f7cc-6226-f7d6-74fe-a9deae1d18f8">
+      <Execution id="be080af7-159d-4ee5-84b8-649d643ef163" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_3" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_ABCD" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="22fea31c-f0df-c9d5-7c93-9590ebc30b40">
+      <Execution id="d12beb95-18dc-4ab2-8cc9-a8f102052698" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_ABCD" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_4" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="4fc4019d-f9de-1dbd-e3d1-66d40599b388">
+      <Execution id="9ca5e0e2-3d82-45d4-913e-66e36e807d94" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_4" />
+    </UnitTest>
+    <UnitTest name="testCase_Login_2" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="6300b902-0ae6-2f07-3bba-f7b7402a1e51">
+      <Execution id="33e79e54-fd79-491a-80e5-701f20ed322b" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._1_Test_Login, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Login_2" />
+    </UnitTest>
+    <UnitTest name="testCase_KHTT_123456" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="2d81709d-0ff0-9609-5478-9257a05cdb0a">
+      <Execution id="04f6a3b7-c494-4a16-95d6-5014e65a4ad5" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._3_Test_KHTT, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_KHTT_123456" />
+    </UnitTest>
+    <UnitTest name="testCase_Xoa_KhongDuoc" storage="c:\users\kin nguyen\desktop\1751010083-1751010131-1751010110\coffeeshop\unittestcoffeeshop\bin\debug\unittestcoffeeshop.dll" id="87c6324a-3a38-54bf-01cd-762cca8d78d8">
+      <Execution id="d1d596fc-7b3d-4483-ac22-aa110d9c1324" />
+      <TestMethod codeBase="C:/Users/Kin Nguyen/Desktop/1751010083-1751010131-1751010110/CoffeeShop/UnitTestCoffeeShop/bin/Debug/UnitTestCoffeeShop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestCoffeeShop._2_Test_Home, UnitTestCoffeeShop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testCase_Xoa_KhongDuoc" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22fea31c-f0df-c9d5-7c93-9590ebc30b40" executionId="d12beb95-18dc-4ab2-8cc9-a8f102052698" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c3f325c-600e-d3dd-f1f9-95baac17e375" executionId="a31493d5-2b72-44a8-81e6-c20499a5ce7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2d81709d-0ff0-9609-5478-9257a05cdb0a" executionId="04f6a3b7-c494-4a16-95d6-5014e65a4ad5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ea8d17d-6955-f5ff-786f-db789e193218" executionId="9b7a961b-e5b4-45e2-b57c-84e6ea7e211a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ff65dbb-02e7-734d-df90-cf72a71f36cb" executionId="3b2f8420-8bee-49a6-ba52-6861ea9a4f23" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3486f7cc-6226-f7d6-74fe-a9deae1d18f8" executionId="be080af7-159d-4ee5-84b8-649d643ef163" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ec96446-5667-6f79-173a-1015c4139778" executionId="68759a9e-5a6b-415d-89c9-6574148b2a75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4fc4019d-f9de-1dbd-e3d1-66d40599b388" executionId="9ca5e0e2-3d82-45d4-913e-66e36e807d94" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d" executionId="de6d499d-ba94-42dc-99aa-dfe4c44181ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" executionId="33e79e54-fd79-491a-80e5-701f20ed322b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="87c6324a-3a38-54bf-01cd-762cca8d78d8" executionId="d1d596fc-7b3d-4483-ac22-aa110d9c1324" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92892753-a6fb-6076-35d8-b259b2867875" executionId="7a4b841b-3769-487c-bcd0-18fe91a5f362" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9516e242-c1e2-58dc-ab4e-daf4a754b19f" executionId="dc507091-487a-4570-8845-607a8434f4c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3341333-08da-e980-0963-333d51cd2e33" executionId="1c765a49-1258-4692-9b22-3368e795e3f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2" executionId="2015dc38-a79c-48ab-bf3a-a745e7ad1620" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b17e7b48-5750-91a5-b696-19de03b20151" executionId="6a992c73-75a4-418b-bb94-cd693b30940b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3c7c967-2efd-b356-b618-c97ab977c2bb" executionId="206c0a0f-9973-40a4-837c-0cb00bea04ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa5b35ab-29ab-0170-9025-94048b21eda5" executionId="f6e92102-5de6-457a-91c6-97f8f563bc8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc" executionId="66aefca9-e931-43ca-b2cf-e311dda00045" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d12beb95-18dc-4ab2-8cc9-a8f102052698" testId="22fea31c-f0df-c9d5-7c93-9590ebc30b40" testName="testCase_KHTT_ABCD" computerName="LAPTOP-IRDHT22H" duration="00:00:00.3682956" startTime="2019-11-18T13:30:46.6437068+07:00" endTime="2019-11-18T13:30:47.2842129+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d12beb95-18dc-4ab2-8cc9-a8f102052698">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestCoffeeShop._3_Test_KHTT.testCase_KHTT_ABCD() in C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 33
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a31493d5-2b72-44a8-81e6-c20499a5ce7c" testId="2c3f325c-600e-d3dd-f1f9-95baac17e375" testName="testCase_Login_1" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0019309" startTime="2019-11-18T13:30:47.2842129+07:00" endTime="2019-11-18T13:30:47.2997995+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a31493d5-2b72-44a8-81e6-c20499a5ce7c">
+    </UnitTestResult>
+    <UnitTestResult executionId="04f6a3b7-c494-4a16-95d6-5014e65a4ad5" testId="2d81709d-0ff0-9609-5478-9257a05cdb0a" testName="testCase_KHTT_123456" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0377882" startTime="2019-11-18T13:30:47.2997995+07:00" endTime="2019-11-18T13:30:47.3466663+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04f6a3b7-c494-4a16-95d6-5014e65a4ad5">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestCoffeeShop._3_Test_KHTT.testCase_KHTT_123456() in C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 39
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9b7a961b-e5b4-45e2-b57c-84e6ea7e211a" testId="2ea8d17d-6955-f5ff-786f-db789e193218" testName="testCase_Xoa_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0005916" startTime="2019-11-18T13:30:47.3466663+07:00" endTime="2019-11-18T13:30:47.3466663+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b7a961b-e5b4-45e2-b57c-84e6ea7e211a">
+    </UnitTestResult>
+    <UnitTestResult executionId="3b2f8420-8bee-49a6-ba52-6861ea9a4f23" testId="2ff65dbb-02e7-734d-df90-cf72a71f36cb" testName="testCase_Login_8" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001895" startTime="2019-11-18T13:30:47.3466663+07:00" endTime="2019-11-18T13:30:47.3622883+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b2f8420-8bee-49a6-ba52-6861ea9a4f23">
+    </UnitTestResult>
+    <UnitTestResult executionId="be080af7-159d-4ee5-84b8-649d643ef163" testId="3486f7cc-6226-f7d6-74fe-a9deae1d18f8" testName="testCase_Login_3" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0002103" startTime="2019-11-18T13:30:47.3622883+07:00" endTime="2019-11-18T13:30:47.3622883+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be080af7-159d-4ee5-84b8-649d643ef163">
+    </UnitTestResult>
+    <UnitTestResult executionId="68759a9e-5a6b-415d-89c9-6574148b2a75" testId="4ec96446-5667-6f79-173a-1015c4139778" testName="testCase_KHTT_HopLe" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0036995" startTime="2019-11-18T13:30:47.3779054+07:00" endTime="2019-11-18T13:30:47.3779054+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68759a9e-5a6b-415d-89c9-6574148b2a75">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTestCoffeeShop._3_Test_KHTT.testCase_KHTT_HopLe() in C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 27
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9ca5e0e2-3d82-45d4-913e-66e36e807d94" testId="4fc4019d-f9de-1dbd-e3d1-66d40599b388" testName="testCase_Login_4" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001940" startTime="2019-11-18T13:30:47.3779054+07:00" endTime="2019-11-18T13:30:47.3935271+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ca5e0e2-3d82-45d4-913e-66e36e807d94">
+    </UnitTestResult>
+    <UnitTestResult executionId="de6d499d-ba94-42dc-99aa-dfe4c44181ca" testId="5d9b02b7-7ed9-5fb6-5cd1-e603f10f901d" testName="testCase_ThanhToan_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001638" startTime="2019-11-18T13:30:47.3935271+07:00" endTime="2019-11-18T13:30:47.3935271+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de6d499d-ba94-42dc-99aa-dfe4c44181ca">
+    </UnitTestResult>
+    <UnitTestResult executionId="33e79e54-fd79-491a-80e5-701f20ed322b" testId="6300b902-0ae6-2f07-3bba-f7b7402a1e51" testName="testCase_Login_2" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001347" startTime="2019-11-18T13:30:47.3935271+07:00" endTime="2019-11-18T13:30:47.4091540+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33e79e54-fd79-491a-80e5-701f20ed322b">
+    </UnitTestResult>
+    <UnitTestResult executionId="d1d596fc-7b3d-4483-ac22-aa110d9c1324" testId="87c6324a-3a38-54bf-01cd-762cca8d78d8" testName="testCase_Xoa_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001532" startTime="2019-11-18T13:30:47.4091540+07:00" endTime="2019-11-18T13:30:47.4091540+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1d596fc-7b3d-4483-ac22-aa110d9c1324">
+    </UnitTestResult>
+    <UnitTestResult executionId="7a4b841b-3769-487c-bcd0-18fe91a5f362" testId="92892753-a6fb-6076-35d8-b259b2867875" testName="testCase_Login_7" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001714" startTime="2019-11-18T13:30:47.4091540+07:00" endTime="2019-11-18T13:30:47.4091540+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7a4b841b-3769-487c-bcd0-18fe91a5f362">
+    </UnitTestResult>
+    <UnitTestResult executionId="dc507091-487a-4570-8845-607a8434f4c3" testId="9516e242-c1e2-58dc-ab4e-daf4a754b19f" testName="testCase_Them_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001136" startTime="2019-11-18T13:30:47.4091540+07:00" endTime="2019-11-18T13:30:47.4247749+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc507091-487a-4570-8845-607a8434f4c3">
+    </UnitTestResult>
+    <UnitTestResult executionId="1c765a49-1258-4692-9b22-3368e795e3f1" testId="a3341333-08da-e980-0963-333d51cd2e33" testName="testCase_Login_5" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001347" startTime="2019-11-18T13:30:47.4247749+07:00" endTime="2019-11-18T13:30:47.4247749+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c765a49-1258-4692-9b22-3368e795e3f1">
+    </UnitTestResult>
+    <UnitTestResult executionId="2015dc38-a79c-48ab-bf3a-a745e7ad1620" testId="aef214a3-bc6f-4ea6-e1ce-b85b85bb32e2" testName="testCase_KHTT_dau" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0039117" startTime="2019-11-18T13:30:47.4247749+07:00" endTime="2019-11-18T13:30:47.4403917+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2015dc38-a79c-48ab-bf3a-a745e7ad1620">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestCoffeeShop._3_Test_KHTT.testCase_KHTT_dau() in C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\UnitTestCoffeeShop\3-Test_KHTT.cs:line 45
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6a992c73-75a4-418b-bb94-cd693b30940b" testId="b17e7b48-5750-91a5-b696-19de03b20151" testName="testCase_Login_6" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0002016" startTime="2019-11-18T13:30:47.4403917+07:00" endTime="2019-11-18T13:30:47.4403917+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a992c73-75a4-418b-bb94-cd693b30940b">
+    </UnitTestResult>
+    <UnitTestResult executionId="206c0a0f-9973-40a4-837c-0cb00bea04ef" testId="f3c7c967-2efd-b356-b618-c97ab977c2bb" testName="testCase_Login_9" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0003096" startTime="2019-11-18T13:30:47.4403917+07:00" endTime="2019-11-18T13:30:47.4560125+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="206c0a0f-9973-40a4-837c-0cb00bea04ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="f6e92102-5de6-457a-91c6-97f8f563bc8d" testId="fa5b35ab-29ab-0170-9025-94048b21eda5" testName="testCase_Them_KhongDuoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001132" startTime="2019-11-18T13:30:47.4560125+07:00" endTime="2019-11-18T13:30:47.4560125+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6e92102-5de6-457a-91c6-97f8f563bc8d">
+    </UnitTestResult>
+    <UnitTestResult executionId="66aefca9-e931-43ca-b2cf-e311dda00045" testId="fa6bf5d9-eb12-eff6-bb7a-be8db17abbcc" testName="testCase_ThanhToan_Duoc" computerName="LAPTOP-IRDHT22H" duration="00:00:00.0001155" startTime="2019-11-18T13:30:47.4560125+07:00" endTime="2019-11-18T13:30:47.4560125+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66aefca9-e931-43ca-b2cf-e311dda00045">
+    </UnitTestResult>
+  </Results>
+</TestRun>

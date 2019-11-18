@@ -1,0 +1,34 @@
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.F_Login.resources
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+c:\users\mypc\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.F_Home.resources
+C:\Users\MyPC\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.F_CheckOut.resources
+C:\Users\MyPC\documents\visual studio 2010\Projects\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+C:\Users\MyPC\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+D:\KTTM\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\KTTM\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csproj.GenerateResource.Cache
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_CheckOut.resources
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.TrangChu.resources
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_Login.resources
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.Properties.Resources.resources
+D:\KTTM\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_AddCustomer.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_AddCustomer.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_CheckOut.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.TrangChu.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.F_Login.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\TheCoffeeCafe.Properties.Resources.resources
+C:\Users\Kin Nguyen\Desktop\1751010083-1751010131-1751010110\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csproj.GenerateResource.Cache
